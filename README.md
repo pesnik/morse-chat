@@ -21,7 +21,7 @@ MorseChat is an Android chat application that allows users to convert conversati
 ## **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/MorseChat.git
+   git clone https://github.com/pesnik/MorseChat.git
    ```
 2. Open the project in **Android Studio**.  
 3. Build and run the application on an emulator or a physical device.  
